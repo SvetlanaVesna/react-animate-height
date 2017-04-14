@@ -1,6 +1,6 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
-var AnimateHeight = require('react-animate-height');
+var AnimateHeight = require('react-animate-height-vesna');
 
 var Example = class extends React.Component {
   constructor() {
